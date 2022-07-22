@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="title">hello world</h1>
+    <p class="subtitle"> my name is Lauren Denby</p>
+    
+    <ul>
+        <li> Delilah</li>
+        <li> Ace</li>
+        <li> Gunner</li>
+    </ul>
 
+    <ol>
+        <li> Dog</li>
+        <li> Horse</li>
+        <li> Cat</li>
+    </ol>
+
+    <table>
+        <thead>
+            <tr>
+                <th> Days in a Week</th>
+                <th> Days in a Year</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td> 7</td>
+                <td> 365</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
